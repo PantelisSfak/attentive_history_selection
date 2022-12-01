@@ -23,7 +23,7 @@ import os
 import modeling
 import optimization
 import tokenization
-import six
+import si
 import tensorflow as tf
 import numpy as np
 from copy import deepcopy
